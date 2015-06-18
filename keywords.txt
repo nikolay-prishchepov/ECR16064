@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For ERC16064
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ERC16064	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Write_command	KEYWORD2
+Write_data	KEYWORD2
+Write_number	KEYWORD2
+Initialize	KEYWORD2
+Clear	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+num
