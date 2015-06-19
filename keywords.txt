@@ -22,4 +22,4 @@ Clear	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-num
+num LITERAL1
